@@ -2,7 +2,7 @@
   "name": "json",
   "version": "1.0.0",
   "scripts": {
-    "start": "node heroku"
+    "start": "node heroku",
     "start": "node server"
   },
   "license": "MIT",
