@@ -4,8 +4,9 @@
    {"text": "Meu nome é Rigley Bot, fui criado para ajudar você a conhecer melhor Rigley. Antes de começarmos queria dizer que as vezes posso não entender algo, mas basta reformular sua pergunta."},
    {"text":"Então vamos começar. Diga algo que queira saber como: carreira, estudo, algo do tipo."}
    ]
-}
+},
 
+{
  "messages": [
     {
       "attachment":{
@@ -30,8 +31,10 @@
                 }
               ]
             }
-            
+          }
+        }
       }
     }
   ]
+}
 }
