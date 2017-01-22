@@ -1,6 +1,6 @@
 {
  "messages": [
-   {"text": "Welcome to our store!"},
+   {"text": "Bem vindo!"},
    {"text": "Meu nome é Rigley Bot, fui criado para ajudar você a conhecer melhor Rigley. Antes de começarmos queria dizer que as vezes posso não entender algo, mas basta reformular sua pergunta."},
    {"text":"Então vamos começar. Diga algo que queira saber como: carreira, estudo, algo do tipo."}
    ]
@@ -30,11 +30,27 @@
                   "title":"Buy Item"
                 }
               ]
+            },
+            {
+              "title":"Classic Grey T-Shirt",
+              "image_url":"http://petersapparel.parseapp.com/img/item101-thumb.png",
+              "subtitle":"Soft gray cotton t-shirt is back in style",
+              "buttons":[
+                {
+                  "type":"web_url",
+                  "url":"https://petersapparel.parseapp.com/view_item?item_id=101",
+                  "title":"View Item"
+                },
+                {
+                  "type":"web_url",
+                  "url":"https://petersapparel.parseapp.com/buy_item?item_id=101",
+                  "title":"Buy Item"
+                }
+              ]
             }
-          }
+          ]
         }
       }
     }
   ]
-}
 }
